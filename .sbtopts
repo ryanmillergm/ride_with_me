@@ -1,0 +1,1 @@
+heroku config:set SBT_OPTS="-J-Xss4m"
